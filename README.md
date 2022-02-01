@@ -23,7 +23,7 @@ PlaySpace is a music sharing app designed to share Spotify playlists. Save your 
 
 ## Deployment
 
-PlaySpace is deployed on Heroku at: https://dashboard.heroku.com/apps/shielded-forest-19133
+PlaySpace is deployed on Heroku at: https://shielded-forest-19133.herokuapp.com/
 
 ## Installation
 
