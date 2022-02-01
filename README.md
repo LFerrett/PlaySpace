@@ -25,6 +25,8 @@ PlaySpace is a music sharing app designed to share Spotify playlists. Save your 
 
 PlaySpace is deployed on Heroku at: https://shielded-forest-19133.herokuapp.com/
 
+Test Spotify user (if needed): t9.stanczyk@gmail.com, t9napassword
+
 ## Installation
 
 To run the app locally, clone the repository to your local development environment. Run npm install to install all dependencies. Source both the schema in MySQL. In a command terminal, navigate to the correct directory and first seed the application by running the command 'npm run seed' and then start the server using the command 'npm start'.
