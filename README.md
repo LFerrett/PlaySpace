@@ -2,7 +2,7 @@
 
 ## Description
 
-PlaySpace is a music sharing app designed to share Spotify playlists. Save your playlists to the app and learn what others are listening to. Save your favorite playlists from friends and comment and upvote them. 
+PlaySpace is a music sharing app designed to share Spotify playlists. Save your playlists to the app and learn what others are listening to. Save your favorite playlists from friends and comment and upvote them. View the project presentation at [here](https://docs.google.com/presentation/d/1QwmAPyJnffIXo9qGdF7c1HoXpvZu10EfgNO79LBOP0c/edit?usp=sharing).
 
 ## Table of Contents
 
@@ -53,7 +53,7 @@ SO THAT I can connect with friends and family to share our love of music online
 
 ## Usage
 
-![Screenshot of Final Code]
+![PlaySpace Functionality](./assets/playspace.gif)
 
 ## Credits
 
